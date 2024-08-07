@@ -13,7 +13,7 @@
 
 ## :wrench: Instalação:
 - Faça o donwload [.keylayout](https://github.com/LuizStSantos/TECLADO-BRASILEIRO-ABNT2-60-MACOS/archive/refs/heads/main.zip) e descompactar o `.keylayout`.
-- Abra o terminal e coloque o seguinte comando `cp Downloads/TECLADO-BRASILEIRO-ABNT2-60-MACOS-main/Brasileiro - ABNT2 - 60%.keylayout /Library/Keyboard\ Layouts`.
+- Abra o terminal e coloque o seguinte comando `cp "Downloads/TECLADO-BRASILEIRO-ABNT2-60-MACOS-main/Brasileiro - ABNT2 - 60%.keylayout" ~/Library/Keyboard\ Layouts`.
 - Reinicie o mac.
 - Agora e só ir em `Preferências do Sistema` e clique em `Teclado` dentro das preferências de teclado, procure a aba de `Layouts de Teclado` clique no ícone de `+` no canto inferior da janela para adicionar um novo layout de teclado, e procure entre as linguagem `Others` selecione o teclado `Brasileiro - ABNT2 - 60%` e clique para adicioná-lo.
 - Trocar o layout na parte de cima em barra de menus do mac hávera os layout e selecione o `Brasileiro - ABNT2 - 60%`.
