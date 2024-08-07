@@ -12,9 +12,9 @@
 ![K606-OG_GY_BK PT (2)](https://github.com/user-attachments/assets/46367e9b-2af4-4802-aee5-35e0a93fa655)
 
 ## :wrench: Instalação:
-- Faça o donwload [.keylayout](https://github.com/LuizStSantos/TECLADO-BRASILEIRO-ABNT2-60-MACOS/archive/refs/heads/main.zip) e descompactar.
+- Faça o [download](https://github.com/LuizStSantos/TECLADO-BRASILEIRO-ABNT2-60-MACOS/archive/refs/heads/main.zip) e extraia o arquivo `TECLADO-BRASILEIRO-ABNT2-60-MACOS-main`
 - Execute o `Brazileiro - ABNT2 - 60%.command` dentro de `TECLADO-BRASILEIRO-ABNT2-60-MACOS-main`
 - Reinicie o mac.
-- Agora e só ir em `Preferências do Sistema` e clique em `Teclado` dentro das preferências de teclado, procure a aba de `Layouts de Teclado` clique no ícone de `+` no canto inferior da janela para adicionar um novo layout de teclado, e procure entre as linguagem `Others` selecione o teclado `Brasileiro - ABNT2 - 60%` e clique para adicioná-lo.
-- Trocar o layout na parte de cima em barra de menus do mac hávera os layout e selecione o `Brasileiro - ABNT2 - 60%`.
+- Agora e só ir em `Preferências do Sistema` e clique em `Teclado`. Dentro das preferências de teclado, procure o botão de `Layouts de Teclado` e clique-o após clique no ícone de `+` no canto inferior da janela para adicionar um novo layout de teclado, e procure entre as linguagens `Others` selecione o teclado `Brasileiro - ABNT2 - 60%` e clique para adicioná-lo.
+- Para trocar o layout no mac na parte de cima haverá uma barra de menus, nela terá um botão de troca de layouts, clique nele e vera a opção `Brasileiro - ABNT2 - 60%` e selecione ele.
 - Pronto já estará funcionando.
